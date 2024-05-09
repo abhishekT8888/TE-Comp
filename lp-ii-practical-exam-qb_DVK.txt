@@ -1,0 +1,335 @@
+Laboratory Practice-II(AI)	TE Computer Engineering
+LABORATORY PRACTICE-II (AI) ORAL QUESTIONS 
+
+
+1. Differentiate between DFS and BFS Algorithms.
+2. Write down the Time and Space Complexity of DFS and BFS.
+3. Which data structure is used by DFS and BFS?
+4. Differentiate between Best first search and A star algorithm.
+5. Solve this problem using A star algorithm.
+6. What is the drawback to solve 8 Puzzle problem with a non-heuristic method?
+7. What is the time and space complexity of selection sort?
+8. If an array is [6, 1, 9, 10] , sort the list by selection sort, step wise.
+9. What is the maximum number of comparisons in one iteration for an array of size N?
+10. Draw Comparison chart with other sorting techniques with respect to time and space
+11. Complexity.
+12. What is a Stable Sort Algorithm? Whether selection sort is a stable algorithm?
+13. Which are the constraints required to solve the N Queen Problem?
+14. Compare Backtracking and branch and bound methods.
+15. What do you mean by Constraint satisfaction problem?
+16. What is the use of a chat bot?
+17. Explain dialog flow in detail.
+18. What are the requirements for developing a chatbot?
+19. How do you evaluate a chatbot performance?
+20. How do I improve my chatbot accuracy?
+
+Laboratory Practice-II(Cloud Computing)	TE Computer Engineering
+LABORATORY PRACTICE-II (CLOUD COMPUTING) ORAL QUESTIONS
+1. What is Cloud Computing with example?
+2. Who is the father of cloud computing?
+3. List down the basic characteristics of cloud computing?
+4. What do you mean by Vertical and Horizontal scaling in Cloud Computing?
+5. What are the services provided by Cloud Computing?
+6. What are different model in Deployment in Cloud Computing?
+7. Mention the platform which are used for Large Scale Cloud Computing?
+8. Mention the name of some large cloud providers and databases?
+9. Explain the difference between cloud and traditional datacenters?
+10. What are the different components required in cloud computing?
+11. What are the different platforms of cloud architecture?
+12. What is a cloud service?
+13. List down the basic clouds in cloud computing?
+14. What are some issues with Cloud Computing?
+15. Mention the services that are provided by Window Azure Operating System?
+16. What is Cloud Computing Architecture?
+17. What are the Services provided by AWS?
+18. What are the Services provided by Microsoft?
+19. What is Virtualization?
+20. What is an EC2 instance?
+21. What is AMI in EC2?
+22. How to launch an on-demand EC2 instance in AWS?
+23. What is Google App Engine?
+24. What are advantages of Google App Engine?
+25. What are the steps to install and configure Google App Engine?
+26. What is Apex?
+27. What are the Features of Apex as language?
+28. What are the application of Apex?
+29. List some Apex Code Development Tools?
+30. What are the steps to create application using Apex Programming Language?
+31. What is Salesforce.com Inc.?
+32. What is Lightning Platform?
+33. How to create Custom Application using Salesforce Classic?
+34. What is the difference between custom application and console application in sales force?
+35. What are the steps to create custom application using salesforce?
+36. What is hypervisor in Cloud Computing?
+37. Explain Load Balancing in Cloud Computing.
+38. List the open-source cloud computing platform databases?
+39. What are recent trends of Cloud Computing?
+40. Applications of Cloud Computing.
+
+
+
+
+
+
+
+
+
+Ans
+1. 
+Cloud Computing: Cloud computing refers to the delivery of computing services over the internet, allowing users to access computing resources such as servers, storage, databases, networking, software, and more, on-demand without the need for extensive infrastructure investment. Example: Google Drive, Dropbox, AWS, Microsoft Azure.
+2. 
+3. 
+Father of Cloud Computing: Dr. Erol Gelenbe, a Turkish computer scientist, is often referred to as the "Father of Cloud Computing" for his work on stochastic models of cloud systems.
+4. 
+5. 
+Basic Characteristics of Cloud Computing:
+6. 
+* On-demand self-service
+* Broad network access
+* Resource pooling
+* Rapid elasticity
+* Measured service
+7. 
+Vertical and Horizontal Scaling in Cloud Computing:
+8. 
+* Vertical Scaling: Also known as scaling up, it involves adding more resources (CPU, RAM) to a single server to handle increased load.
+* Horizontal Scaling: Also known as scaling out, it involves adding more machines or instances to distribute the load across multiple servers.
+9. 
+Services Provided by Cloud Computing:
+10. 
+* Infrastructure as a Service (IaaS)
+* Platform as a Service (PaaS)
+* Software as a Service (SaaS)
+11. 
+Deployment Models in Cloud Computing:
+12. 
+* Public Cloud
+* Private Cloud
+* Hybrid Cloud
+* Community Cloud
+13. 
+Platforms for Large Scale Cloud Computing:
+14. 
+* Amazon Web Services (AWS)
+* Microsoft Azure
+* Google Cloud Platform (GCP)
+* IBM Cloud
+15. 
+Large Cloud Providers and Databases:
+16. 
+* AWS (Amazon Web Services) - Amazon RDS, Amazon DynamoDB
+* Microsoft Azure - Azure SQL Database, Cosmos DB
+* Google Cloud Platform (GCP) - Cloud SQL, Bigtable
+* IBM Cloud - Db2 on Cloud, Cloudant
+17. 
+Difference between Cloud and Traditional Datacenters:
+18. 
+* Cloud provides on-demand access to resources, while traditional datacenters require physical infrastructure.
+* Cloud offers scalability and elasticity, while traditional datacenters have fixed capacities.
+* Cloud operates on a pay-as-you-go model, while traditional datacenters involve large upfront costs.
+19. 
+Components Required in Cloud Computing:
+20. 
+* Virtualization technology
+* Storage
+* Networking
+* Server hardware
+* Middleware
+* Management tools
+21. 
+Platforms of Cloud Architecture:
+22. 
+* Frontend platforms
+* Backend platforms
+* Cloud-based delivery platforms
+23. 
+Cloud Service:
+24. 
+* A cloud service is any service made available to users on demand via the internet from a cloud computing provider's servers.
+* It eliminates the need for users to install and run applications on their own computers.
+25. 
+Basic Clouds in Cloud Computing:
+26. 
+* Public Cloud
+* Private Cloud
+* Hybrid Cloud
+* Community Cloud
+27. 
+Issues with Cloud Computing:
+28. 
+* Security concerns
+* Data privacy
+* Downtime and reliability
+* Compliance and legal issues
+* Vendor lock-in
+29. 
+Services provided by Windows Azure Operating System:
+30. 
+* Compute services (Virtual Machines, Azure Functions)
+* Storage services (Blob Storage, Table Storage)
+* Database services (SQL Database, Cosmos DB)
+* Networking services (Virtual Network, Traffic Manager)
+31. 
+Cloud Computing Architecture:
+32. 
+* Cloud computing architecture refers to the structure and components of a cloud computing environment, including frontend and backend components, networking infrastructure, storage systems, and management tools.
+33. 
+Services provided by AWS:
+34. 
+* Compute services (EC2, Lambda)
+* Storage services (S3, EBS)
+* Database services (RDS, DynamoDB)
+* Networking services (VPC, Route 53)
+35. 
+
+
+
+
+
+
+Services provided by Microsoft:
+36. 
+* Compute services (Azure Virtual Machines)
+* Storage services (Azure Blob Storage)
+* Database services (Azure SQL Database)
+* Networking services (Azure Virtual Network)
+37. 
+Virtualization:
+38. 
+* Virtualization is the process of creating a virtual representation of something, such as virtual machines, servers, storage devices, or network resources.
+39. 
+EC2 Instance:
+40. 
+* An EC2 (Elastic Compute Cloud) instance is a virtual server in the AWS cloud on which users can run their applications. It provides scalable computing capacity in the cloud.
+41. 
+AMI in EC2:
+42. 
+* An AMI (Amazon Machine Image) in EC2 is a template that contains the software configuration (operating system, application server, and applications) required to launch an EC2 instance.
+43. 
+Launching an On-Demand EC2 Instance in AWS:
+44. 
+* Go to the EC2 dashboard.
+* Click on "Launch Instance."
+* Choose an Amazon Machine Image (AMI).
+* Select an instance type.
+* Configure instance details.
+* Add storage.
+* Configure security group.
+* Review and launch the instance.
+45. 
+Google App Engine:
+46. 
+* Google App Engine is a Platform as a Service (PaaS) cloud computing platform for developing and hosting web applications in Google's data centers.
+47. 
+Advantages of Google App Engine:
+48. 
+* Scalability
+* Managed services
+* Built-in security
+* Automatic scaling
+* Support for multiple programming languages
+49. 
+Steps to Install and Configure Google App Engine:
+50. 
+* Install the Google Cloud SDK.
+* Create a new project on the Google Cloud Platform.
+* Configure the project settings.
+* Install any necessary dependencies.
+* Write and deploy your application code.
+51. 
+
+
+
+
+
+Apex:
+52. 
+* Apex is a programming language used to write code for the Salesforce Lightning Platform.
+53. 
+Features of Apex:
+54. 
+* Object-oriented
+* Strongly typed
+* Database integration
+* Triggers and workflows
+* Integration with Salesforce APIs
+55. 
+Applications of Apex:
+56. 
+* Developing custom business logic
+* Automating processes with triggers and workflows
+* Integrating with external systems using Salesforce APIs
+57. 
+Apex Code Development Tools:
+58. 
+* Salesforce Developer Console
+* Salesforce Extensions for Visual Studio Code
+* Force.com IDE
+59. 
+Steps to Create Application using Apex Programming Language:
+60. 
+* Define the data model (objects, fields).
+* Write Apex classes and triggers for business logic.
+* Create Visualforce pages or Lightning components for the user interface.
+* Test and deploy the application.
+61. 
+Salesforce.com Inc.:
+62. 
+* Salesforce.com Inc. is a cloud-based software company known for its customer relationship management (CRM) platform.
+63. 
+Lightning Platform:
+64. 
+* Lightning Platform is a platform-as-a-service (PaaS) offering from Salesforce that allows developers to build and deploy custom applications on the Salesforce infrastructure.
+65. 
+Creating Custom Application using Salesforce Classic:
+66. 
+* Go to Setup > Build > Create > Apps.
+* Click on "New" under Custom Apps.
+* Fill in the details and select tabs to include in the app.
+* Save the app.
+67. 
+Difference between Custom Application and Console Application in Salesforce:
+68. 
+* Custom Application: A custom application is a collection of tabs, objects, and other items that are designed to work together to accomplish specific business tasks.
+* Console Application: A console application provides a workspace optimized for managing multiple records simultaneously, often used in customer service or support scenarios.
+69. 
+
+
+
+
+
+Steps to Create Custom Application using Salesforce:
+70. 
+* Go to Setup > Build > Create > Apps.
+* Click on "New" under Custom Apps.
+* Fill in the details and select tabs to include in the app.
+* Save the app.
+71. 
+Hypervisor in Cloud Computing:
+72. 
+* A hypervisor is a software layer that allows multiple virtual machines (VMs) to run on a single physical machine, managing and allocating hardware resources to each VM.
+73. 
+Load Balancing in Cloud Computing:
+74. 
+* Load balancing is the process of distributing incoming network traffic across multiple servers to ensure optimal resource utilization, maximize throughput, and minimize response time.
+75. 
+Open-Source Cloud Computing Platform Databases:
+76. 
+* OpenStack
+* CloudStack
+* Eucalyptus
+77. 
+Recent Trends of Cloud Computing:
+78. 
+* Serverless computing
+* Edge computing
+* Multi-cloud and hybrid cloud strategies
+* Artificial intelligence and machine learning integration
+79. 
+Applications of Cloud Computing:
+80. 
+* Data storage and backup
+* Web hosting and application deployment
+* Big data analytics
+* Development and testing environments
+
