@@ -2,6 +2,7 @@ Laboratory Practice-II(AI)	TE Computer Engineering
 LABORATORY PRACTICE-II (AI) ORAL QUESTIONS 
 
 
+
 1. Differentiate between DFS and BFS Algorithms.
 2. Write down the Time and Space Complexity of DFS and BFS.
 3. Which data structure is used by DFS and BFS?
